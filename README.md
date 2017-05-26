@@ -28,3 +28,12 @@ resolves
 resolved
 
 Reference:https://help.github.com/articles/closing-issues-via-commit-messages/
+
+**Respectfully** _adding_ _**notes**_ to **_current_**  file.
+> Everything will be finished on-time.
+[link to Google!](http://google.com)
+I think you should use an`<addr>` element here instead.
+~~@venroypelitch~~
+[List of emojis in a sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/):whale: :squirrel:
+ :chicken: :rice: :boot::tm:
+
